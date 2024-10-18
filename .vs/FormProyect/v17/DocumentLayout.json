@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\facun\\source\\repos\\FormProyect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|C:\\Users\\facun\\source\\repos\\FormProyect\\formproyect\\forms\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|solutionrelative:formproyect\\forms\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|c:\\users\\facun\\source\\repos\\formproyect\\formproyect\\forms\\addproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|solutionrelative:formproyect\\forms\\addproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|c:\\users\\facun\\source\\repos\\formproyect\\formproyect\\forms\\gestionclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|solutionrelative:formproyect\\forms\\gestionclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|c:\\users\\facun\\source\\repos\\formproyect\\formproyect\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|solutionrelative:formproyect\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|c:\\users\\facun\\source\\repos\\formproyect\\formproyect\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|solutionrelative:formproyect\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|c:\\users\\facun\\source\\repos\\formproyect\\formproyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|solutionrelative:formproyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|C:\\Users\\facun\\source\\repos\\FormProyect\\formproyect\\forms\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|solutionrelative:formproyect\\forms\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|c:\\users\\facun\\source\\repos\\formproyect\\formproyect\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|solutionrelative:formproyect\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|c:\\users\\facun\\source\\repos\\formproyect\\formproyect\\forms\\gestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|solutionrelative:formproyect\\forms\\gestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|C:\\Users\\facun\\source\\repos\\FormProyect\\formproyect\\forms\\gestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|solutionrelative:formproyect\\forms\\gestionclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|c:\\users\\facun\\source\\repos\\formproyect\\formproyect\\forms\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|solutionrelative:formproyect\\forms\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|c:\\users\\facun\\source\\repos\\formproyect\\formproyect\\formproyect.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC6CCBD6-469B-424D-80FF-FD15F0FA2841}|FormProyect\\FormProyect.csproj|solutionrelative:formproyect\\formproyect.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\facun\\source\\repos\\FormProyect\\formproyect\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:formproyect\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "FormProyect\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Service\\ProductService.cs",
+              "RelativeToolTip": "FormProyect\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:34:56.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "FormProyect\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "FormProyect\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:15:16.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionClientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Forms\\GestionClientes.Designer.cs",
+              "RelativeDocumentMoniker": "FormProyect\\Forms\\GestionClientes.Designer.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Forms\\GestionClientes.Designer.cs",
+              "RelativeToolTip": "FormProyect\\Forms\\GestionClientes.Designer.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:46:41.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddProduct.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Forms\\AddProduct.Designer.cs",
+              "RelativeDocumentMoniker": "FormProyect\\Forms\\AddProduct.Designer.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Forms\\AddProduct.Designer.cs",
+              "RelativeToolTip": "FormProyect\\Forms\\AddProduct.Designer.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAqwLcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:16:34.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddProduct.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Forms\\AddProduct.cs",
+              "RelativeDocumentMoniker": "FormProyect\\Forms\\AddProduct.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Forms\\AddProduct.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormProyect\\Forms\\AddProduct.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:31:27.812Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Program.cs",
+              "RelativeDocumentMoniker": "FormProyect\\Program.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Program.cs",
+              "RelativeToolTip": "FormProyect\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:13:20.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FormProyect\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Models\\Product.cs",
+              "RelativeToolTip": "FormProyect\\Models\\Product.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:15:55.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GestionClientes.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Forms\\GestionClientes.cs",
+              "RelativeDocumentMoniker": "FormProyect\\Forms\\GestionClientes.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Forms\\GestionClientes.cs",
+              "RelativeToolTip": "FormProyect\\Forms\\GestionClientes.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:46:39.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Forms\\AddProduct.cs",
+              "RelativeDocumentMoniker": "FormProyect\\Forms\\AddProduct.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Forms\\AddProduct.cs",
+              "RelativeToolTip": "FormProyect\\Forms\\AddProduct.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwDsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:03:13.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Forms\\Menu.cs",
+              "RelativeDocumentMoniker": "FormProyect\\Forms\\Menu.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Forms\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormProyect\\Forms\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:54:36.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GestionClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Forms\\GestionClientes.cs",
+              "RelativeDocumentMoniker": "FormProyect\\Forms\\GestionClientes.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Forms\\GestionClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormProyect\\Forms\\GestionClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:56:09.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormProyect.csproj",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\FormProyect.csproj",
+              "RelativeDocumentMoniker": "FormProyect\\FormProyect.csproj",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\FormProyect.csproj",
+              "RelativeToolTip": "FormProyect\\FormProyect.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T07:51:35.366Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Menu.cs",
+              "RelativeDocumentMoniker": "FormProyect\\Menu.cs",
+              "ToolTip": "C:\\Users\\facun\\source\\repos\\FormProyect\\FormProyect\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormProyect\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:43:30.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
